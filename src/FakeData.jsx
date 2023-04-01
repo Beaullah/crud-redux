@@ -1,22 +1,42 @@
-export const UserData = [
+export const UsersData = [
   {
     id: 1,
-    name: "Bonita",
+    name: "Leanne Graham",
     username: "Bret",
   },
   {
-    id: 1,
-    name: "Bonita",
-    username: "Bret",
+    id: 2,
+    name: "Ervin Howell",
+    username: "Antonette",
   },
   {
-    id: 1,
-    name: "Bonita",
-    username: "Bret",
+    id: 3,
+    name: "Clementine Bauch",
+    username: "clementine",
   },
   {
-    id: 1,
-    name: "Bonita",
-    username: "Bret",
+    id: 4,
+    name: "Patricia Lebsack",
+    username: "Karianne",
+  },
+  {
+    id: 5,
+    name: "Chelsey Dietrich",
+    username: "Kamren",
+  },
+  {
+    id: 6,
+    name: "Jake Runolfsdottir V",
+    username: "Leopoldo_Corkery",
+  },
+  {
+    id: 7,
+    name: "Mrs. Dennis Schulist",
+    username: "Karley_Dach",
+  },
+  {
+    id: 8,
+    name: "Kurtis Weissnat",
+    username: "Elwyn.Skiles",
   },
 ];
